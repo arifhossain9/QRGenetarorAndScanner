@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QR কোড জেনারেটর এবং স্ক্যানার</string>
+    <string name="exit_generator">প্রস্থান জেনারেটর</string>
+    <string name="enter_your_text_here">এখানে আপনার পাঠ্য লিখুন __</string>
+    <string name="qr_code_generator">QR কোড জেনারেটর</string>
+    <string name="generate">জেনারেট করুন</string>
+    <string name="your_scan_result_will_be_here">আপনার স্ক্যানের ফলাফল এখানে থাকবে</string>
+    <string name="qr_code_scanner">QR কোড স্ক্যানার</string>
+    <string name="start_scanning">স্ক্যান শুরু করুন</string>
+    <string name="todo">কিছু</string>
+    <string name="exit_scanner">প্রস্থান স্ক্যানার</string>
+    <string name="chose_action_bellow">আপনার কর্ম চয়ন করুন __</string>
+    <string name="exit">বাহির</string>
+    <string name="scan_qr_code">QR কোড স্ক্যান করুন</string>
+    <string name="generate_qr_code">QR কোড জেনারেট করুন</string>
+</resources>

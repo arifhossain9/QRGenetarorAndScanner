@@ -1,0 +1,16 @@
+<resources>
+    <string name="enter_your_text_here">यहां अपना पाठ दर्ज करें---</string>
+    <string name="qr_code_generator">QR कोड जेनरेटर</string>
+    <string name="todo">करने के लिए</string>
+    <string name="generate">उत्पन्न</string>
+    <string name="exit_generator">निकास जनरेटर</string>
+    <string name="your_scan_result_will_be_here">आपका स्कैन परिणाम यहाँ होगा</string>
+    <string name="exit_scanner">बाहर निकलें स्कैनर</string>
+    <string name="app_name">क्यूआर जेनरेटर और स्कैनर</string>
+    <string name="qr_code_scanner">QR कोड स्कैनर</string>
+    <string name="start_scanning">स्कैनिंग प्रारंभ करें</string>
+    <string name="chose_action_bellow">मैंने खुद से कहा___</string>
+    <string name="exit">निकास</string>
+    <string name="scan_qr_code">क्यू आर कोड स्कैन करें</string>
+    <string name="generate_qr_code">कोड उत्पन्न करें</string>
+</resources>

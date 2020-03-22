@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QR Genetaror And Scanner</string>
+    <string name="enter_your_text_here">Enter your text here__</string>
+    <string name="qr_code_generator">Qr Code Generator</string>
+    <string name="exit_generator">Exit Generator</string>
+    <string name="generate">Generate</string>
+    <string name="your_scan_result_will_be_here">Your scan result will be here</string>
+    <string name="exit_scanner">QR Code Scanner</string>
+    <string name="qr_code_scanner">QR Code Scanner</string>
+    <string name="start_scanning">Start Scanning</string>
+    <string name="todo">Todo</string>
+    <string name="chose_action_bellow">Chose your action bellow__</string>
+    <string name="scan_qr_code">Scan Qr Code</string>
+    <string name="generate_qr_code">Generate Qr Code</string>
+    <string name="exit">Exit</string>
+</resources>
